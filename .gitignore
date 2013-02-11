@@ -1,0 +1,7 @@
+*.pyc
+*.swp
+*~
+/.Python
+/.cache/
+/.coverage
+/.idea
